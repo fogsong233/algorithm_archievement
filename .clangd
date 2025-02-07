@@ -1,0 +1,2 @@
+CompileFlags:
+  CompilationDatabase: out/build/clang19-wsl/compile_commands.json
